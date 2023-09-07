@@ -1,1 +1,1 @@
-My hello world C programming
+my first C program
